@@ -13,7 +13,7 @@ http.createServer((req, res) => {
 const bot = new Telegraf(process.env.BOT_TOKEN);
 
 // UPDATE THIS LINK INSIDE THE QUOTES TO CHANGE YOUR LOGO IMAGE INSTANTLY
-const CONSOLE_BANNER = "https://raw.githubusercontent.com/lazztech-ship-it/lazztech.github.io/main/logo.png";
+const CONSOLE_BANNER = "https://i.postimg.cc/d0pV7S2F/men-293-2160x4836px.jpg";
 
 // THE UNIFORM SYSTEM FOOTER
 const TERMINAL_FOOTER = "\n\n⚙️ _LAZZ SECURE MAIN CORE NODE // ENCRYPTED RELAY COMPLIANT_";
