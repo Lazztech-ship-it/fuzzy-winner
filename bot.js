@@ -134,7 +134,7 @@ bot.action('menu_master', async (ctx) => {
                     `*SECURE COMMUNICATIONS ROUTING:*\n` +
                     `• 📞 *TELEPHONY LINK:* +254 106 527992\n` +
                     `• 📧 *SECURE EMAIL:* lazztech.services@gmail.com\n` +
-                    `• 📡 *PRIMARY GATEWAY:* @Lazz_Admin` +
+                    `• 📡 *PRIMARY GATEWAY:* \`@Lazz_Admin\`` +
                     TERMINAL_FOOTER;
 
     return ctx.replyWithMarkdown(bioText, Markup.inlineKeyboard([
